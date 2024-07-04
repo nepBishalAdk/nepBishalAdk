@@ -11,15 +11,8 @@ I'm always eager to learn new technologies and improve my skills. Right now, I'm
 Advanced React techniques
 Backend development with Node.js
 Exploring cloud services
-💼 Projects
-Here are a few projects I've been working on:
-
-Project Name: Brief description of the project.
-Another Project: Brief description of the project.
-Yet Another Project: Brief description of the project.
-Feel free to check them out and contribute!
 
 📫 How to Reach Me
-Email: your-email@example.com
+Email: bca210622_bishal@achsnepal.edu.np
 LinkedIn: Your LinkedIn Profile
 🔗 Connect with Me
