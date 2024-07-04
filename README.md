@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Bishal Adhikari! 👋
+Welcome to my GitHub profile! I'm a passionate software developer with experience in a variety of programming languages and frameworks.
 
-<!--
-**nepBishalAdk/nepBishalAdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies & Tools
+Languages: JavaScript, Java, C, C#, PHP, HTML, CSS
+Databases: MySQL
+Frameworks & Libraries: React, Node.js
+🌱 Currently Learning
+I'm always eager to learn new technologies and improve my skills. Right now, I'm focusing on:
 
-Here are some ideas to get you started:
+Advanced React techniques
+Backend development with Node.js
+Exploring cloud services
+💼 Projects
+Here are a few projects I've been working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project Name: Brief description of the project.
+Another Project: Brief description of the project.
+Yet Another Project: Brief description of the project.
+Feel free to check them out and contribute!
+
+📫 How to Reach Me
+Email: your-email@example.com
+LinkedIn: Your LinkedIn Profile
+🔗 Connect with Me
